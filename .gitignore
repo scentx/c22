@@ -1,0 +1,9 @@
+/node_modules
+!package.json
+
+*.json
+*.txt
+*.replit
+*.nix
+config.js
+tokens.txt
